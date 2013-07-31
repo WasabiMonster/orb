@@ -1,2 +1,5 @@
 orb.iml
 .idea
+config.rb
+sass
+*.scss
